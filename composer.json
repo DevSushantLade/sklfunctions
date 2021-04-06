@@ -1,0 +1,16 @@
+{
+    "name": "susha/test-package",
+    "description": "This will give you greet",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sushant Lade",
+            "email": "ladesushantidol@gmail.com"
+        }
+    ],
+    "autoload": {
+        "sklfunctions\\": "/"
+    },
+    "require": {}
+}
