@@ -10,7 +10,9 @@
         }
     ],
     "autoload": {
-        "sklfunctions\\": "/"
+        "psr-4": {
+            "sklfunctions\\": "/"
+        }
     },
     "require": {}
 }
